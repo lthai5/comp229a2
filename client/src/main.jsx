@@ -1,5 +1,5 @@
 import React from 'react';
-import {creatRoot} from 'react-dom';
+import {createRoot} from 'react-dom';
 import App from './app';
 
 const container = document.getElementById('root');
